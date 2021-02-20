@@ -1,0 +1,23 @@
+{
+  "name": "homework-10",
+  "version": "1.0.0",
+  "description": "teamgenerator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waleed McLean",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr247365366inaleapyear/homework-10.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mr247365366inaleapyear/homework-10/issues"
+  },
+  "homepage": "https://github.com/mr247365366inaleapyear/homework-10#readme"
+}
